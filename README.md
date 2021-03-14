@@ -13,6 +13,10 @@ Problemas X Soluções propostas por Christopher Alexander (Arquiteto), livro "U
 
 # Sugestão de Livros
 
+- Head First Design Patterns
+- Padrões de Projeto
+
+![0](https://i.imgur.com/IVpNjxd.png)
 ![1](https://i.imgur.com/78llHPe.png)
-![2](https://i.imgur.com/iO3cZPX.png
+![2](https://i.imgur.com/iO3cZPX.png)
 
