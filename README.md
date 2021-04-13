@@ -22,7 +22,7 @@ Problemas X Soluções propostas por Christopher Alexander (Arquiteto), livro "U
 
 # Entendendo os Diagramas
 
-![Entendendo os Diagramas](https://i.imgur.com/oplINfN.png)
+![Entendendo os Diagramas](https://i.imgur.com/oplINfN.png "Entendendo os Diagramas")
 
 > Atenção a formatação e as cores no diagrama no exemplo acima.
 
