@@ -12,7 +12,7 @@ public class Client {
 //		ServicesAbstractFactory factory = new RestAbstractFactory();
 		
 		UserService userService = factory.getUserService();
-		userService.save("Jhon");
+		userService.save("John");
 		userService.delete(5);
 		
 		CarService carService = factory.getCarService();
